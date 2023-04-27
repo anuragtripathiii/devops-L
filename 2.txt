@@ -1,2 +1,3 @@
 heeloo from file 2
 
+omg im editing this from terminal
